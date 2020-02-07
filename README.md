@@ -2,6 +2,14 @@
 
 A collection of all Tryston Perry's presentations at Meetups and online
 
+## How to Give a Good Tech Talk
+
+![](https://s3.amazonaws.com/media-p.slid.es/thumbnails/5a9d3f99d6861032fac114d6288f0118/thumb.jpg?1580847250)
+
+Date: Feb 4 2020
+Description: Ideas to think about when creating your next talk
+Links: [Medium](https://medium.com/@trystonperry/how-to-give-a-good-tech-talk-5c93f07f0e98) [Slides](https://slides.com/trystonperry/deck-aeafc2)
+
 ## Vue.js Default Event Behavior
 
 ![](https://s3.amazonaws.com/media-p.slid.es/thumbnails/a44c402fdef680a37e3b810ace7219d1/thumb.jpg?1579194835)
